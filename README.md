@@ -1,4 +1,7 @@
 # React + Vite
+<p align="center">
+  <img src="https://i.imgur.com/G3dZVF6.png" width="160" height="291"  alt="App screenshot"/>
+</p>
 
 My ToDo project to experiment with different stuff
 
@@ -14,5 +17,5 @@ My ToDo project to experiment with different stuff
 
 ## Architecture
 
-The project architecture is Feature-Sliced design.
+The project architecture is Feature-Sliced design. <br />
 Shared > Entities > Features > Widgets > Pages > App
