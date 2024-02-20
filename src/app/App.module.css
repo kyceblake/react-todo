@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 1.4rem;
+}
+
+h2 {
+  font-size: 0.9rem;
+}
+
+a {
+  font-size: 1rem;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+}
+
+.App .Page {
+  margin: 10px;
+  display: flex;
+  flex-flow: column;
+  gap: 10px;
+  position: relative;
+  height: 100%;
+}

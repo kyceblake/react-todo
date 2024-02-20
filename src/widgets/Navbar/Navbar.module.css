@@ -1,0 +1,21 @@
+.Navbar {
+  border-bottom: 1px solid #f0f0f9;
+  padding: 16px 10px;
+  display: flex;
+  flex-flow: column;
+
+  /* Make navbar sticky inside flex parent element */
+  position: sticky;
+  align-self: flex-start;
+  top: 0;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.Navbar .NavbarHeader {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 14px 14px 14px;
+}

@@ -1,0 +1,15 @@
+.Category {
+  padding: 10px 0;
+}
+
+.Category .CategoryTitle {
+  padding: 0 0 10px 10px;
+  text-transform: uppercase;
+  color: #8082a7;
+}
+
+.Category .Tasks {
+  display: flex;
+  flex-flow: column;
+  gap: 10px;
+}
